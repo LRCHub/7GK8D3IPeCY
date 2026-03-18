@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Amnesia",
+  "base_artist": "5 Seconds of Summer",
+  "createdAt": "2026-03-18T13:17:09.324172Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Amnesia",
+      "artist": "José José",
+      "has_synced": true,
+      "path": "select/01_Amnesia_José_José.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "amnesia",
+      "artist": "Vérité",
+      "has_synced": true,
+      "path": "select/02_amnesia_Vérité.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Amnesia",
+      "artist": "Chumbawamba",
+      "has_synced": true,
+      "path": "select/03_Amnesia_Chumbawamba.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Amnesia",
+      "artist": "Dead Can Dance",
+      "has_synced": false,
+      "path": "select/04_Amnesia_Dead_Can_Dance.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "An Exit (Feat. Amnesia Scanner)",
+      "artist": "Holly Herndon",
+      "has_synced": false,
+      "path": "select/05_An_Exit_(Feat._Amnesia_Scanner)_Holly_Herndon.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Amnesia",
+      "artist": "Tristania",
+      "has_synced": true,
+      "path": "select/06_Amnesia_Tristania.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Amnesia",
+      "artist": "Skinny Puppy",
+      "has_synced": false,
+      "path": "select/07_Amnesia_Skinny_Puppy.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Amnesia",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/08_Amnesia_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Amnesia",
+      "artist": "American Hi-Fi",
+      "has_synced": false,
+      "path": "select/09_Amnesia_American_Hi-Fi.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Amnesia",
+      "artist": "Cheryl",
+      "has_synced": true,
+      "path": "select/10_Amnesia_Cheryl.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Amnesia",
+      "artist": "David Byrne",
+      "has_synced": true,
+      "path": "select/11_Amnesia_David_Byrne.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Amnesia",
+      "artist": "Rossana Casale",
+      "has_synced": false,
+      "path": "select/12_Amnesia_Rossana_Casale.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Amnesia",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/13_Amnesia_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Amnesia Vivace",
+      "artist": "The Mothers Of Invention",
+      "has_synced": true,
+      "path": "select/14_Amnesia_Vivace_The_Mothers_Of_Invention.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Amnesia Vivace",
+      "artist": "Frank Zappa / The Mothers of Invention",
+      "has_synced": true,
+      "path": "select/15_Amnesia_Vivace_Frank_Zappa___The_Mothers_of_Invention.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Elective Amnesia",
+      "artist": "Rise Against",
+      "has_synced": true,
+      "path": "select/16_Elective_Amnesia_Rise_Against.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Amnesia Vivace",
+      "artist": "Frank Zappa",
+      "has_synced": true,
+      "path": "select/17_Amnesia_Vivace_Frank_Zappa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Amnesia",
+      "artist": "5 Seconds of summer",
+      "has_synced": false,
+      "path": "select/pl_01_Amnesia_5_Seconds_of_summer.txt"
+    }
+  ]
+}
